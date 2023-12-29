@@ -9,7 +9,7 @@ def mux(input0: int, input1: int, select: int) -> int:
 
     https://www.electrically4u.com/solved-problems-on-multiplexer
     https://en.wikipedia.org/wiki/Multiplexer
-
+#this is test and i am just testing whats its about
     >>> mux(0, 1, 0)
     0
     >>> mux(0, 1, 1)
